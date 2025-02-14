@@ -13,7 +13,7 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/rajesh-biswas-8b9780312/" target="_main" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/profile.php?id=100026498283105" target="_main" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
 <p><img align="center"  width="48%" src="https://github-readme-stats.vercel.app/api?username=rajesh-1920&show_icons=true&locale=en" alt="rajesh-1920" />
-
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-1920&theme=dark" alt="rajesh-1920"></p>
 </p>
 <p><img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajesh-1920&show_icons=true&locale=en&layout=compact" alt="rajesh-1920" />
 </p>
