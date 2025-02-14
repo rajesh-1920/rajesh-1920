@@ -50,9 +50,8 @@
 
 <div style="display: flex; justify-content: flex-start; align-items: stretch; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=rajesh-1920&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" style="width: 48%; height: 200px; object-fit: cover;" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=rajesh-1920&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="width: 48%; height: 200px; object-fit: cover;" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=rajesh-1920&limit=4&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="width: 48%; height: 200px; object-fit: cover;" />
 </div>
-<br>
 <br>
 
 <div>
