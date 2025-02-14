@@ -1,7 +1,6 @@
 <h1>Hi 👋, I'm Rajesh Biswas</h1>
 <h3>A Competitive Programmer and Developer</h3>
 
----
 
 ## 🚀 Languages and Tools I Use
 
@@ -32,7 +31,6 @@
   </a>
 </p>
 
----
 
 ## ⚡️ Where to Find Me
 
@@ -47,7 +45,6 @@
 
 ---
 
-
 <div style="display: flex; justify-content: flex-start; align-items: stretch; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=rajesh-1920&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" style="width: 48%; height: 200px; object-fit: cover;" />
   <img src="https://github-contributor-stats.vercel.app/api?username=rajesh-1920&limit=3&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="width: 48%; height: 200px; object-fit: cover;" />
@@ -59,7 +56,7 @@
   <img style="width: 49%; height: 198px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajesh-1920&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
----
+
 
 ## 🏆 GitHub Trophies
 
@@ -69,7 +66,6 @@
   </a>
 </p>
 
----
 
 ## ✍️ Random Dev Quote
 
@@ -78,11 +74,9 @@
 </p>
 
 
-[![](https://visitcount.itsvg.in/api?id=rajesh-1920&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
 
-### 🐍 Contribution Snake Graph
+## 🐍 Contribution Snake Graph
 
 <div align="center">
 <picture align="center">
@@ -92,6 +86,3 @@
 </picture>
 </div>
 
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
