@@ -50,7 +50,7 @@
   <img style="width: 43%; height: 200px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajesh-1920&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
-<div align="center" style="display: flex; justify-content:  flex-start; align-items: stretch; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content:  flex-start; align-items: stretch; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=rajesh-1920&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" style="width: 47%; height: 200px; object-fit: cover;" />
   <img src="https://github-contributor-stats.vercel.app/api?username=rajesh-1920&limit=3&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="width: 47%; height: 200px; object-fit: cover;" />
 </div>
