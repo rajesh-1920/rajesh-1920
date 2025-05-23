@@ -26,7 +26,9 @@
   <a href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" />
   </a>
- 
+  <a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
+  </a>
 </p>
 
 
