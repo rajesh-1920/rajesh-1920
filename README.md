@@ -5,7 +5,7 @@
 
 ## 🚀 Languages and Tools I Use
 
-<p>
+<p>  
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
     <img   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" />
   </a>
