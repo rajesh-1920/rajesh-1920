@@ -1,5 +1,5 @@
 <div align="center" style="margin: 0; padding: 0; box-sizing: border-box;">
-<img width="100%" style="margin: 0; padding: 0;display: block;" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1e3a8a&height=160&section=header&text=Rajesh%20Biswas&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=20&desc=Competitive%20Programmer%20|%20Full%20Stack%20Developer&descAlignY=45&descAlign=center" />
+<img width="100%" style="margin: 0; padding: 0;display: block;" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1e3a8a&height=150&section=header&text=Rajesh%20Biswas&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=20&desc=Competitive%20Programmer%20|%20Full%20Stack%20Developer&descAlignY=45&descAlign=center" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=💻+Competitive+Programmer+%2B+Developer;🎯+DSA+Specialist;🚀+Building+Digital+Solutions;🌟+Open+Source+Enthusiast)](https://git.io/typing-svg)
 </div>
@@ -232,7 +232,7 @@ I believe every bug is a feature waiting to be discovered! 🐛➡️✨
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,130:1e3a8a&height=150&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=fff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,130:1e3a8a&height=130&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=75" width="100%"/>
 
 </div>
 
