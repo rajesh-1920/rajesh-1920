@@ -1,99 +1,165 @@
 <div align="center">
-  <h1>Hi 👋, I'm Rajesh Biswas</h1>
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=Competitive+Programmer+%26+Developer;Web+Development+Learner;Flutter+%2B+Mobile+App+Builder;Open+to+Collaboration"
-    alt="Typing animation"
-  />
-</div>
+  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1e3a8a&height=250&section=header&text=Rajesh%20Biswas&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Competitive%20Programmer%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" />
 
-<table width="100%">
-  <tr align="center">
-    <td valign="top" width="70%"><h3>About Me</h3></td>
-    <td valign="top" width="30%"><h3>Languages and Tools</h3></td>
-  </tr>
-  <tr>
-    <td valign="top" width="70%">
-      <p>Passionate about problem solving and building efficient solutions.</p>
-      <p>Focused on algorithms, data structures, mobile app development, and web development.</p>
-      <p>Currently learning web development and Kali Linux.</p>
-      <p>Open to collaboration on learning projects and competitive practice.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Problem%20Solving-0b2540?style=flat&logo=thealgorithms&logoColor=white" alt="Problem Solving" />
-        <img src="https://img.shields.io/badge/DSA-0b2540?style=flat" alt="DSA" />
-        <img src="https://img.shields.io/badge/Web%20Development-0b2540?style=flat&logo=html5&logoColor=white" alt="Web Development" />
-        <img src="https://img.shields.io/badge/Flutter-0b2540?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
-        <img src="https://img.shields.io/badge/Mobile%20Apps-0b2540?style=flat" alt="Mobile Apps" />
-        <img src="https://img.shields.io/badge/Kali%20Linux-0b2540?style=flat&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-      </p>
-    </td>
-    <td valign="top" width="30%">
-      <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="38" height="38" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="38" height="38" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="38" height="38" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="38" height="38" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="38" height="38" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38" />
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="38" height="38" />
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="38" height="38" />
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="38" height="38" />
-      </p>
-    </td>
-  </tr>
-</table>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=💻+Competitor+%2B+Developer;🎯+DSA+Specialist;🚀+Building+Digital+Solutions;🌟+Open+Source+Enthusiast)](https://git.io/typing-svg)
 
----
-
-<table width="100%">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h3>Quick Stats</h3>
-      <p>Codeforces Specialist (Max 1416)</p>
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=rajesh-1920&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-        <img src="https://img.shields.io/github/followers/rajesh-1920?label=Followers&style=flat&color=0e75b6" alt="Followers" />
-        <img src="https://img.shields.io/github/stars/rajesh-1920?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=flat&color=0e75b6" alt="Stars" />
-      </p>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h3>Where to Find Me</h3>
-      <p>
-        <a href="https://www.linkedin.com/in/rajesh-biswas-8b9780312/" target="_blank">
-          <img src="https://img.shields.io/badge/-LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-        <a href="https://www.facebook.com/profile.php?id=100026498283105" target="_blank">
-          <img src="https://img.shields.io/badge/Facebook-0f172a?style=for-the-badge&logo=facebook&logoColor=0866ff" alt="Facebook" />
-        </a>
-        <a href="https://leetcode.com/rajesh_1920/" target="_blank">
-          <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=f89f1b" alt="LeetCode" />
-        </a>
-        <a href="https://codeforces.com/profile/rajesh_1920" target="_blank">
-          <img src="https://img.shields.io/badge/Codeforces-1f2937?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-        </a>
-        <a href="mailto:rajesh18@cse.pstu.ac.bd" target="_blank">
-          <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">GitHub Insights</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajesh-1920&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-1920&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajesh-1920&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 ---
 
-<h3 align="center">Contribution Graph</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajesh-1920&theme=react-dark" alt="Contribution Graph" />
-</p>
+## 👤 Professional Summary
+
+<table width="100%">
+<tr>
+<td width="70%">
+
+**Location:** 🇧🇩 Bangladesh  
+**Education:** 🎓 CSE Student  
+**Focus:** 🎯 Competitive Programming, Web & Mobile Development  
+**Current Stack:** C++, JavaScript, Flutter, Dart  
+
+### Key Strengths
+- ⚡ Problem Solving & Algorithm Design
+- 🏗️ Full Stack Web Development
+- 📱 Cross-Platform Mobile Apps
+- 🔐 Cybersecurity & Linux
+
+</td>
+<td width="30%">
+<div align="center">
+
+### 📈 Quick Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=rajesh-1920&label=Views&color=38BDF8&style=flat-square) ![Followers](https://img.shields.io/github/followers/rajesh-1920?label=Followers&style=flat-square&color=38BDF8) ![Stars](https://img.shields.io/github/stars/rajesh-1920?affiliations=OWNER%2CCOLLABORATOR&label=Repository%20Stars&style=flat-square&color=38BDF8)
+
+**Codeforces:** Specialist ⭐ (Max: 1416)  
+**LeetCode:** 🟢 Active (200+ Problems)  
+**CodeChef:** Active Participant  
+**DSA:** Graphs • DP • Strings • Trees  
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+### 💻 Core Programming Languages
+| C++ | C | Java | JavaScript | Dart |
+|:---:|:---:|:---:|:---:|:---:|
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| DSA & CP | Low-Level | Backend | Versatile | Mobile |
+
+</td>
+<td width="50%">
+
+### 🌐 Web Development
+| HTML5 | CSS3 | JavaScript | Responsive |
+|:---:|:---:|:---:|:---:|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Responsive](https://img.shields.io/badge/Responsive-38BDF8?style=flat-square&logo=css3&logoColor=white) |
+| Markup | Styling | Interactive | Mobile-First |
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+### 📱 Mobile Development
+| Flutter | Dart | Cross-Platform | Native |
+|:---:|:---:|:---:|:---:|
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ✅ | Android/iOS |
+
+</td>
+<td width="50%">
+
+### 🔧 Tools & Technologies
+| Git | GitHub | VS Code | Kali |
+|:---:|:---:|:---:|:---:|
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | ![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) |
+| Version Control | Collaboration | IDE | Security |
+
+</td>
+</tr>
+</table>
+
+### 🎯 Key Competencies
+```
+┌─────────────────────────────────────────────────────────┐
+│  ⚡ Problem Solving        │  📊 Algorithm Design       │
+│  🔄 Data Structures       │  🎨 UI/UX Implementation   │
+│  🚀 Performance Optim.    │  🔐 Security Practices     │
+│  📱 Mobile Apps           │  💼 Agile Development      │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajesh-1920&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&cache_seconds=1800)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajesh-1920&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rajesh-1920&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&size_weight=0.5&count_weight=0.5&cache_seconds=1800)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajesh-1920&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rajesh-1920&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
+
+## 🤝 Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-biswas-8b9780312/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100026498283105)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rajesh_1920)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/rajesh_1920/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajesh18@cse.pstu.ac.bd)
+
+### 💬 Open To:
+- 🤝 Collaboration on projects
+- 💼 Freelance opportunities  
+- 📚 Learning partnerships
+- 🔗 Open source contributions
+ 
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Developer Insights
+
+> "The best code is the code that solves the problem elegantly and efficiently."
+
+### 🎮 Fun Fact
+I believe every bug is a feature waiting to be discovered! 🐛➡️✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1e3a8a&height=150&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=fff&animation=fadeIn" width="100%" />
+
+</div>
 
 
 
