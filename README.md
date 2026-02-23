@@ -1,9 +1,7 @@
-<div align="center">
-  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1e3a8a&height=250&section=header&text=Rajesh%20Biswas&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Competitive%20Programmer%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" />
+<div align="center" style="margin: 0; padding: 0; box-sizing: border-box;">
+<img width="100%" style="margin: 0; padding: 0;display: block;" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1e3a8a&height=160&section=header&text=Rajesh%20Biswas&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=20&desc=Competitive%20Programmer%20|%20Full%20Stack%20Developer&descAlignY=45&descAlign=center" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=💻+Competitor+%2B+Developer;🎯+DSA+Specialist;🚀+Building+Digital+Solutions;🌟+Open+Source+Enthusiast)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=💻+Competitive+Programmer+%2B+Developer;🎯+DSA+Specialist;🚀+Building+Digital+Solutions;🌟+Open+Source+Enthusiast)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -12,33 +10,44 @@
 
 <table width="100%">
 <tr>
-<td width="70%">
+<td colspan="2" style="text-align: center; padding: 15px;">
 
-**Location:** 🇧🇩 Bangladesh  
-**Education:** 🎓 CSE Student  
-**Focus:** 🎯 Competitive Programming, Web & Mobile Development  
-**Current Stack:** C++, JavaScript, Flutter, Dart  
+### 🌟 Competitive Programmer & Full Stack Developer
 
-### Key Strengths
-- ⚡ Problem Solving & Algorithm Design
-- 🏗️ Full Stack Web Development
-- 📱 Cross-Platform Mobile Apps
-- 🔐 Cybersecurity & Linux
+Building elegant solutions through algorithmic thinking and clean code. Passionate about DSA, web & mobile development, and open-source contributions.
 
 </td>
-<td width="30%">
-<div align="center">
+</tr>
+<tr>
+<td width="60%">
+
+**Education:** 🎓 Bachelor of Science in Computer Science & Engineering  
+**Specialization:** 🎯 Competitive Programming & Full Stack Development  
+**Primary Tech Stack:** C++, JavaScript, Flutter, Dart  
+**Expertise Level:** Intermediate to Advanced
+
+### Key Competencies
+- ⚡ Data Structures & Algorithms | 400+ Solved Problems
+- 🏗️ Full Stack Web Development | HTML5, CSS3, JavaScript
+- 📱 Cross-Platform Mobile Apps | Flutter & Native Development
+- 🔐 Cybersecurity & Linux Administration | Kali Linux Proficient
+
+</td>
+<td width="40%" style="vertical-align: top;">
 
 ### 📈 Quick Stats
 
+<div style="vertical-align: top; text-align: left;">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=rajesh-1920&label=Views&color=38BDF8&style=flat-square) ![Followers](https://img.shields.io/github/followers/rajesh-1920?label=Followers&style=flat-square&color=38BDF8) ![Stars](https://img.shields.io/github/stars/rajesh-1920?affiliations=OWNER%2CCOLLABORATOR&label=Repository%20Stars&style=flat-square&color=38BDF8)
 
-**Codeforces:** Specialist ⭐ (Max: 1416)  
-**LeetCode:** 🟢 Active (200+ Problems)  
-**CodeChef:** Active Participant  
-**DSA:** Graphs • DP • Strings • Trees  
-
 </div>
+
+**Codeforces::** Specialist ⭐ (Max: 1416)  
+**LeetCode::**   🟢 Active (200+ Problems)  
+**CodeChef::**   Active Participant  
+**DSA::**        Graphs • DP • Strings • Trees      
+
 
 </td>
 </tr>
@@ -113,15 +122,51 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajesh-1920&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&cache_seconds=1800)
+<table width="100%" align="center">
+<tr>
+<td width="65%" align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajesh-1920&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajesh-1920&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rajesh-1920&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&size_weight=0.5&count_weight=0.5&cache_seconds=1800)
+</td>
+<td width="35%" align="center">
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajesh-1920&theme=github_dark)
+
+</td>
+</tr>
+<tr>
+<td width="65%" align="center">
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajesh-1920&theme=github_dark)
+
+</td>
+<td width="35%" align="center">
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajesh-1920&theme=github_dark)
+
+</td>
+</tr>
+<tr>
+<td width="65%" align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajesh-1920&theme=tokyonight&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8)
+
+</td>
+<td width="35%" align="center">
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajesh-1920&theme=github_dark)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajesh-1920&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rajesh-1920&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -132,32 +177,62 @@
 
 <div align="center">
 
+<table width="100%">
+<tr>
+<td width="50%" style="text-align: center;">
+
+### 🌐 Social Links
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-biswas-8b9780312/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100026498283105)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rajesh_1920)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/rajesh_1920/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajesh18@cse.pstu.ac.bd)
 
+</td>
+<td width="50%" style="text-align: center; padding: 10px;">
+
 ### 💬 Open To:
-- 🤝 Collaboration on projects
-- 💼 Freelance opportunities  
-- 📚 Learning partnerships
-- 🔗 Open source contributions
- 
+
+🤝 Collaboration on projects  
+💼 Freelance opportunities  
+📚 Learning partnerships  
+🔗 Open source contributions
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
 <div align="center">
 
+<table width="100%">
+<tr>
+<td width="50%" style="text-align: center; padding: 20px;">
+
 ### 💡 Developer Insights
 
 > "The best code is the code that solves the problem elegantly and efficiently."
 
+⚡ Always learning, always improving
+
+</td>
+<td width="50%" style="text-align: center; padding: 20px;">
+
 ### 🎮 Fun Fact
+
 I believe every bug is a feature waiting to be discovered! 🐛➡️✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1e3a8a&height=150&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=fff&animation=fadeIn" width="100%" />
+🚀 Turning coffee into code since day one
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,130:1e3a8a&height=150&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=fff&animation=fadeIn" width="100%"/>
 
 </div>
 
