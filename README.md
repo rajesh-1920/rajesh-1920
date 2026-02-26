@@ -1,5 +1,5 @@
-<div align="center">
-<img width="100%" style="display: block;" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1e3a8a&height=150&section=header&text=Rajesh%20Biswas&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=20&desc=Competitive%20Programmer%20|%20Full%20Stack%20Developer&descAlignY=45&descAlign=center" />
+<div align="center" style="margin: 0; padding: 0; box-sizing: border-box;">
+<img width="100%" style="margin: 0; padding: 0;display: block;" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1e3a8a&height=150&section=header&text=Rajesh%20Biswas&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=20&desc=Competitive%20Programmer%20|%20Full%20Stack%20Developer&descAlignY=45&descAlign=center" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=💻+Competitive+Programmer+%2B+Developer;🎯+DSA+Specialist;🚀+Building+Digital+Solutions;🌟+Open+Source+Enthusiast)](https://git.io/typing-svg)
 </div>
@@ -10,7 +10,7 @@
 
 <table width="100%">
 <tr>
-<td colspan="2" style="text-align: center;">
+<td colspan="2" style="text-align: center; padding: 15px;">
 
 ### 🌟 Competitive Programmer & Full Stack Developer
 
@@ -23,7 +23,7 @@ Building elegant solutions through algorithmic thinking and clean code. Passiona
 
 **Education:** 🎓 Bachelor of Science in Computer Science & Engineering  
 **Specialization:** 🎯 Competitive Programming & Full Stack Development  
-**Primary Tech Stack:** C++, JavaScript, Flutter, Dart  
+**Primary Tech Stack:** C++, JavaScript, Flutter, Dart, Python  
 **Expertise Level:** Intermediate to Advanced
 
 ### Key Competencies
@@ -37,16 +37,16 @@ Building elegant solutions through algorithmic thinking and clean code. Passiona
 
 ### 📈 Quick Stats
 
-<div style="text-align: left;">
+<div style="vertical-align: top; text-align: left;">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rajesh-1920&label=Views&color=38BDF8&style=flat-square) ![Followers](https://img.shields.io/github/followers/rajesh-1920?label=Followers&style=flat-square&color=38BDF8) ![Stars](https://img.shields.io/github/stars/rajesh-1920?affiliations=OWNER%2CCOLLABORATOR&label=Repository%20Stars&style=flat-square&color=38BDF8)
 
 </div>
 
-**Codeforces:** Specialist ⭐ (Max: 1416)  
-**LeetCode:** 🟢 Active (200+ Problems)  
-**CodeChef:** Active Participant  
-**DSA:** Graphs • DP • Strings • Trees
+**Codeforces::** Specialist ⭐ (Max: 1416)  
+**LeetCode::**   🟢 Active (200+ Problems)  
+**CodeChef::**   Active Participant  
+**DSA::**        Graphs • DP • Strings • Trees      
 
 
 </td>
@@ -64,10 +64,10 @@ Building elegant solutions through algorithmic thinking and clean code. Passiona
 <td width="50%">
 
 ### 💻 Core Programming Languages
-| C++ | C | Java | JavaScript | Dart |
-|:---:|:---:|:---:|:---:|:---:|
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| DSA & CP | Low-Level | Backend | Versatile | Mobile |
+| C++ | C | Java | Python |
+|:---:|:---:|:---:|:---:|
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| DSA & CP | Low-Level | Backend | Automation |
 
 </td>
 <td width="50%">
@@ -87,9 +87,9 @@ Building elegant solutions through algorithmic thinking and clean code. Passiona
 <td width="50%">
 
 ### 📱 Mobile Development
-| Flutter | Dart | Cross-Platform | Native |
-|:---:|:---:|:---:|:---:|
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ✅ | Android/iOS |
+| Flutter | Dart | Native |
+|:---:|:---:|:---:|
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | Android/iOS |
 
 </td>
 <td width="50%">
@@ -190,7 +190,7 @@ Building elegant solutions through algorithmic thinking and clean code. Passiona
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajesh18@cse.pstu.ac.bd)
 
 </td>
-<td width="50%" style="text-align: center;">
+<td width="50%" style="text-align: center; padding: 10px;">
 
 ### 💬 Open To:
 
@@ -211,7 +211,7 @@ Building elegant solutions through algorithmic thinking and clean code. Passiona
 
 <table width="100%">
 <tr>
-<td width="50%" style="text-align: center;">
+<td width="50%" style="text-align: center; padding: 20px;">
 
 ### 💡 Developer Insights
 
@@ -220,7 +220,7 @@ Building elegant solutions through algorithmic thinking and clean code. Passiona
 ⚡ Always learning, always improving
 
 </td>
-<td width="50%" style="text-align: center;">
+<td width="50%" style="text-align: center; padding: 20px;">
 
 ### 🎮 Fun Fact
 
@@ -235,6 +235,3 @@ I believe every bug is a feature waiting to be discovered! 🐛➡️✨
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,130:1e3a8a&height=130&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=75" width="100%"/>
 
 </div>
-
-
-
