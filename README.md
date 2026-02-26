@@ -55,6 +55,9 @@ Building elegant solutions through algorithmic thinking and clean code. Passiona
 
 ---
 
+<details>
+<summary><strong>Show Technical Skills, Key Competencies & GitHub Analytics</strong></summary>
+
 ## 🛠️ Technical Skills
 
 <div align="center">
@@ -172,6 +175,7 @@ Building elegant solutions through algorithmic thinking and clean code. Passiona
 
 ---
 
+</details>
 
 ## 🤝 Connect & Collaborate
 
