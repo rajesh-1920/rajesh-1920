@@ -1,5 +1,5 @@
-<div align="center" style="margin: 0; padding: 0; box-sizing: border-box;">
-<img width="100%" style="margin: 0; padding: 0;display: block;" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1e3a8a&height=150&section=header&text=Rajesh%20Biswas&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=20&desc=Competitive%20Programmer%20|%20Full%20Stack%20Developer&descAlignY=45&descAlign=center" />
+<div align="center">
+<img width="100%" style="display: block;" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1e3a8a&height=150&section=header&text=Rajesh%20Biswas&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=20&desc=Competitive%20Programmer%20|%20Full%20Stack%20Developer&descAlignY=45&descAlign=center" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=💻+Competitive+Programmer+%2B+Developer;🎯+DSA+Specialist;🚀+Building+Digital+Solutions;🌟+Open+Source+Enthusiast)](https://git.io/typing-svg)
 </div>
@@ -10,7 +10,7 @@
 
 <table width="100%">
 <tr>
-<td colspan="2" style="text-align: center; padding: 15px;">
+<td colspan="2" style="text-align: center;">
 
 ### 🌟 Competitive Programmer & Full Stack Developer
 
@@ -37,16 +37,16 @@ Building elegant solutions through algorithmic thinking and clean code. Passiona
 
 ### 📈 Quick Stats
 
-<div style="vertical-align: top; text-align: left;">
+<div style="text-align: left;">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rajesh-1920&label=Views&color=38BDF8&style=flat-square) ![Followers](https://img.shields.io/github/followers/rajesh-1920?label=Followers&style=flat-square&color=38BDF8) ![Stars](https://img.shields.io/github/stars/rajesh-1920?affiliations=OWNER%2CCOLLABORATOR&label=Repository%20Stars&style=flat-square&color=38BDF8)
 
 </div>
 
-**Codeforces::** Specialist ⭐ (Max: 1416)  
-**LeetCode::**   🟢 Active (200+ Problems)  
-**CodeChef::**   Active Participant  
-**DSA::**        Graphs • DP • Strings • Trees      
+**Codeforces:** Specialist ⭐ (Max: 1416)  
+**LeetCode:** 🟢 Active (200+ Problems)  
+**CodeChef:** Active Participant  
+**DSA:** Graphs • DP • Strings • Trees
 
 
 </td>
@@ -190,7 +190,7 @@ Building elegant solutions through algorithmic thinking and clean code. Passiona
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajesh18@cse.pstu.ac.bd)
 
 </td>
-<td width="50%" style="text-align: center; padding: 10px;">
+<td width="50%" style="text-align: center;">
 
 ### 💬 Open To:
 
@@ -211,7 +211,7 @@ Building elegant solutions through algorithmic thinking and clean code. Passiona
 
 <table width="100%">
 <tr>
-<td width="50%" style="text-align: center; padding: 20px;">
+<td width="50%" style="text-align: center;">
 
 ### 💡 Developer Insights
 
@@ -220,7 +220,7 @@ Building elegant solutions through algorithmic thinking and clean code. Passiona
 ⚡ Always learning, always improving
 
 </td>
-<td width="50%" style="text-align: center; padding: 20px;">
+<td width="50%" style="text-align: center;">
 
 ### 🎮 Fun Fact
 
