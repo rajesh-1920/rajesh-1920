@@ -27,7 +27,7 @@ Building elegant solutions through algorithmic thinking and clean code. Passiona
 **Expertise Level:** Intermediate to Advanced
 
 ### Key Competencies
-- ⚡ Data Structures & Algorithms | 400+ Solved Problems
+- ⚡ Data Structures & Algorithms | 2000+ Solved Problems
 - 🏗️ Full Stack Web Development | HTML5, CSS3, JavaScript
 - 📱 Cross-Platform Mobile Apps | Flutter & Native Development
 - 🔐 Cybersecurity & Linux Administration | Kali Linux Proficient
