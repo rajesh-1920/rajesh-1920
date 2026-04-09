@@ -43,7 +43,7 @@ Building elegant solutions through algorithmic thinking and clean code. Passiona
 
 </div>
 
-**Codeforces::** Specialist ⭐ (Max: 1416)  
+**Codeforces::** Specialist (Max: 1416)  
 **LeetCode::**   🟢 Active (200+ Problems)  
 **CodeChef::**   2 ⭐ (Max: 1543)  
 **DSA::**        Graphs • DP • Strings • Trees      
