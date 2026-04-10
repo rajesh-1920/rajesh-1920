@@ -2,6 +2,7 @@
 <img width="100%" style="margin: 0; padding: 0;display: block;" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1e3a8a&height=150&section=header&text=Rajesh%20Biswas&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=20&desc=Competitive%20Programmer%20|%20Full%20Stack%20Developer&descAlignY=45&descAlign=center" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=💻+Competitive+Programmer+%2B+Developer;🎯+DSA+Specialist;🚀+Building+Digital+Solutions;🌟+Open+Source+Enthusiast)](https://git.io/typing-svg)
+
 </div>
 
 ---
@@ -27,6 +28,7 @@ Building elegant solutions through algorithmic thinking and clean code. Passiona
 **Expertise Level:** Intermediate to Advanced
 
 ### Key Competencies
+
 - ⚡ Data Structures & Algorithms | 2000+ Solved Problems
 - 🏗️ Full Stack Web Development | HTML5, CSS3, JavaScript
 - 📱 Cross-Platform Mobile Apps | Flutter & Native Development
@@ -44,10 +46,9 @@ Building elegant solutions through algorithmic thinking and clean code. Passiona
 </div>
 
 **Codeforces::** Specialist (Max: 1416)  
-**LeetCode::**   🟢 Active (200+ Problems)  
-**CodeChef::**   2 ⭐ (Max: 1543)  
-**DSA::**        Graphs • DP • Strings • Trees      
-
+**LeetCode::** 🟢 Active (200+ Problems)  
+**CodeChef::** 2 ⭐ (Max: 1543)  
+**DSA::** Graphs • DP • Strings • Trees
 
 </td>
 </tr>
@@ -67,19 +68,21 @@ Building elegant solutions through algorithmic thinking and clean code. Passiona
 <td width="50%">
 
 ### 💻 Core Programming Languages
-| C++ | C | Java | Python |
-|:---:|:---:|:---:|:---:|
+
+|                                               C++                                                |                                          C                                           |                                               Java                                               |                                               Python                                                |
+| :----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| DSA & CP | Low-Level | Backend | Automation |
+|                                             DSA & CP                                             |                                      Low-Level                                       |                                             Backend                                              |                                             Automation                                              |
 
 </td>
 <td width="50%">
 
 ### 🌐 Web Development
-| HTML5 | CSS3 | JavaScript | Responsive |
-|:---:|:---:|:---:|:---:|
+
+|                                              HTML5                                               |                                             CSS3                                              |                                                   JavaScript                                                    |                                                Responsive                                                 |
+| :----------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Responsive](https://img.shields.io/badge/Responsive-38BDF8?style=flat-square&logo=css3&logoColor=white) |
-| Markup | Styling | Interactive | Mobile-First |
+|                                              Markup                                              |                                            Styling                                            |                                                   Interactive                                                   |                                               Mobile-First                                                |
 
 </td>
 </tr>
@@ -90,24 +93,27 @@ Building elegant solutions through algorithmic thinking and clean code. Passiona
 <td width="50%">
 
 ### 📱 Mobile Development
-| Flutter | Dart | Native |
-|:---:|:---:|:---:|
+
+|                                                Flutter                                                 |                                             Dart                                              |   Native    |
+| :----------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :---------: |
 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | Android/iOS |
 
 </td>
 <td width="50%">
 
 ### 🔧 Tools & Technologies
-| Git | GitHub | VS Code | Kali |
-|:---:|:---:|:---:|:---:|
+
+|                                            Git                                             |                                               GitHub                                                |                                                       VS Code                                                       |                                                    Kali                                                    |
+| :----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | ![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) |
-| Version Control | Collaboration | IDE | Security |
+|                                      Version Control                                       |                                            Collaboration                                            |                                                         IDE                                                         |                                                  Security                                                  |
 
 </td>
 </tr>
 </table>
 
 ### 🎯 Key Competencies
+
 ```
 ┌─────────────────────────────────────────────────────────┐
 │  ⚡ Problem Solving        │  📊 Algorithm Design       │
@@ -146,19 +152,19 @@ Building elegant solutions through algorithmic thinking and clean code. Passiona
 </td>
 <td width="35%" align="center">
 
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajesh-1920&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-1920&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
 
 </td>
 </tr>
 <tr>
 <td width="65%" align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajesh-1920&theme=tokyonight&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8)
+![GitHub Streak](https://streak-stats.demolab.com?user=rajesh-1920&theme=tokyonight&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8)
 
 </td>
 <td width="35%" align="center">
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajesh-1920&theme=github_dark)
+![Top Languages by Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajesh-1920&theme=github_dark)
 
 </td>
 </tr>
