@@ -152,7 +152,7 @@ Building elegant solutions through algorithmic thinking and clean code. Passiona
 </td>
 <td width="35%" align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-1920&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajesh-1920&theme=github_dark)
 
 </td>
 </tr>
