@@ -152,14 +152,14 @@ Building elegant solutions through algorithmic thinking and clean code. Passiona
 </td>
 <td width="35%" align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-1920&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-1920&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400)
 
 </td>
 </tr>
 <tr>
 <td width="65%" align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rajesh-1920&theme=tokyonight&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8)
+![GitHub Streak](https://streak-stats.demolab.com?user=rajesh-1920&theme=tokyonight&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&cache_seconds=86400)
 
 </td>
 <td width="35%" align="center">
